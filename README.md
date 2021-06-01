@@ -1,6 +1,6 @@
 # Scientific Calculator
 
-https://sneha2245.github.io/scientific-calculator/
+https://subirghosh77.github.io/scientific-calculator/
 
 - __Duration :__ 3 month.
 
