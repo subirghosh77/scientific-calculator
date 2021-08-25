@@ -24,6 +24,11 @@ Description
 Code
 ----
 
+We used inversed button to display other buttons by using : 
+
+```html 
+<span class="buttonNormal" id="inv" onclick="inv();">Inv</span> 
+```
 ```javascript
 function inv() {
   document.getElementById('invStat').checked = !document.getElementById('invStat').checked;
