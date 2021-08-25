@@ -21,6 +21,27 @@ Description
   
    __ii.__	There is a button named inverse which is used to show inverse of some buttons like __`ln`__ to <img src="https://latex.codecogs.com/svg.image?e^{x}" title="e^{x}" /> , __`sin`__ to <img src="https://latex.codecogs.com/svg.image?sin^{-1}" title="sin^{-1}" /> , __`π`__ to __`2π`__ and many more.
     
+Code
+----
+
+```javascript
+function inv() {
+  document.getElementById('invStat').checked = !document.getElementById('invStat').checked;
+  if (document.getElementById('invStat').checked) {
+    document.getElementById('inv').style.backgroundColor = "#fff8a2";
+    document.getElementById('ex').innerHTML = "e" + "<sup>x</sup>";
+    document.getElementById('frac').innerHTML = "Frac";
+    document.getElementById('sin').innerHTML = "sin" + "<sup>-1</sup>";
+    document.getElementById('pi').innerHTML = "2π"; ...
+  } else {
+    document.getElementById('inv').style.backgroundColor = "#cccccc";
+    document.getElementById('ex').innerHTML = "ln";
+    document.getElementById('frac').innerHTML = "Int";
+    document.getElementById('sin').innerHTML = "sin";
+    document.getElementById('pi').innerHTML = "π"; ...
+  }
+}
+```
 
 Features
 --------
