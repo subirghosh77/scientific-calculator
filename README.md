@@ -4,17 +4,30 @@
 
 https://subirghosh77.github.io/scientific-calculator/
 
-- __Duration :__ 3 month.
+Duration
+--------
 
-- __Technologies / Tools Used :__ HTML, CSS, JavaScript, NetBeans , Glassfish .
+3 month.
 
-- __Description :__ 
+Technologies / Tools Used
+-------------------------
 
-    __i.__	We have build a user friendly of a scientific calculator . The interface have a display and various buttons like sin, cos , numbers , operations etc.
+HTML, CSS, JavaScript, NetBeans , Glassfish .
+
+Description
+-----------
+
+   __i.__	We have build a user friendly of a scientific calculator . The interface have a display and various buttons like sin, cos , numbers , operations etc.
   
-    __ii.__	There is a button named inverse which is used to show inverse of some buttons like __`ln`__ to __`ex`__ <img src="https://latex.codecogs.com/svg.image?e^{x}" title="e^{x}" />, __`sin`__ to __`sin-1`__ , __`π`__ to __`2π`__ and many more.
+   __ii.__	There is a button named inverse which is used to show inverse of some buttons like __`ln`__ to <img src="https://latex.codecogs.com/svg.image?e^{x}" title="e^{x}" /> , __`sin`__ to <img src="https://latex.codecogs.com/svg.image?sin^{-1}" title="sin^{-1}" /> , __`π`__ to __`2π`__ and many more.
     
 
-- __Features :__ Display date and time . 
+Features
+--------
 
-- __Team Members :__ https://github.com/subirghosh77 , https://github.com/sneha2245/ , https://github.com/arnabseal
+Display date and time . 
+
+Team Members
+------------
+
+https://github.com/subirghosh77 , https://github.com/sneha2245/ , https://github.com/arnabseal
