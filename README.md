@@ -24,7 +24,7 @@ Description
 Code
 ----
 
-We used inversed button to display other buttons by using : 
+We used __`inverse`__ button to display other buttons by using : 
 
 ```html 
 <span class="buttonNormal" id="inv" onclick="inv();">Inv</span> 
